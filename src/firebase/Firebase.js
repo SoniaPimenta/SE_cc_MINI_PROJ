@@ -3,12 +3,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBza-2NgAiKWGaTA-eUMvdZ4-MhX6fWaWs",
-  authDomain: "bookworm-e120c.firebaseapp.com",
-  projectId: "bookworm-e120c",
-  storageBucket: "bookworm-e120c.appspot.com",
-  messagingSenderId: "899817981160",
-  appId: "1:899817981160:web:65e135115798ce3f67755d"
+  apiKey: "AIzaSyBG75zQHztmdiab4cj0wrM-kxIoHPzfBzw",
+  authDomain: "book-worm-4100a.firebaseapp.com",
+  projectId: "book-worm-4100a",
+  storageBucket: "book-worm-4100a.firebasestorage.app",
+  messagingSenderId: "479763406705",
+  appId: "1:479763406705:web:34e8025a0f480203b2e0d0"
 };
 
 // Initialize Firebase
